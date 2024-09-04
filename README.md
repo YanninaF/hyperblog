@@ -10,6 +10,7 @@ Un blog de git y Github
 * El verdadero amor por las buenas prácticas
 *Creado por el increible Platzi Team
 *Incluyebejemplos en windows, Linux y Mac
+*Disponible para todas las edades
 
 Y como un amable recordatorio **Este readme.md es un ejemplo**. Diseñado para ver 
 como queda estéticamente . Recomiendo que vean el curso de Git&Github en: [Platzi](https://platzi.com/cursos/git-github/ "Platzi") []
